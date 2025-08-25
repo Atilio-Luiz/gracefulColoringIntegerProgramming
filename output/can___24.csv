@@ -1,0 +1,2 @@
+G,|V|,|E|,density,maxDegree,minDegree,greedy,span,time(milliseconds),status
+can___24,24,68,0.2463768115942029,8,3,20,11.0,234053,OPTIMAL

@@ -4,7 +4,7 @@
 DIR="input"
 
 # Caminho para o script Julia
-JULIA_SCRIPT="graceful.jl"
+JULIA_SCRIPT="graceful_coloring_IP_model.jl"
 
 # Loop sobre todos os arquivos .txt na pasta
 for file in "$DIR"/*.txt; do

@@ -306,7 +306,7 @@ function main()
     
     @debug println("colors of greedy coloring: ", colors)
 
-    TIME_LIMIT_MINUTES = 15 
+    TIME_LIMIT_MINUTES = 5 
 
     x, opt, elapsed_time, status = graceful_coloring(g, TIME_LIMIT_MINUTES, colors)
 
