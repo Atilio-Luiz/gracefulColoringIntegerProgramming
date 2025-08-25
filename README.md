@@ -1,7 +1,7 @@
 # Graceful Coloring Integer Programming
 Integer Programming for Graceful Coloring of Graphs
 
-**Definition:** Let $G = (V(G),E(G))$ be simple graph $G$ and let $S = O conjunto é $\lbrace 1,2,\ldots,k \rbrace$ be a set of natural numbers called **colors**. A **k-graceful coloring** of $G$ is a function $f \colon V(G) \to \{1,2,\ldots,k\}$ such that the following two conditions are satisfied:
+**Definition:** Let $G = (V(G),E(G))$ be simple graph $G$ and let $S = \lbrace 1,2,\ldots,k \rbrace$ be a set of natural numbers called **colors**. A **k-graceful coloring** of $G$ is a function $f \colon V(G) \to \{1,2,\ldots,k\}$ such that the following two conditions are satisfied:
 
 - every two adjacent vertices $u, v \in V(G)$ are assigned differente colors, that is, $f(u) \neq f(v)$; and
 - when every edge $uv \in E(G)$ is assigned the induced edge label $|f(u)-f(v)|$, we obtain that any two adjacent edges have distinct induced edge labels.
