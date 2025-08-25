@@ -48,6 +48,9 @@ Before running the project, make sure you have installed:
 
 The script *run_all.sh* is responsible for executing the program  *graceful_coloring_IP_model.jl*   
 
+## Author ✍️
+Atilio G. Luiz (gomes.atilio@ufc.br)
+
 
 
 ## 📝 License
